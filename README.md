@@ -3,12 +3,12 @@
 
 ***Exercícios:***
 
-* [x] [Exercício 1 — Variáveis.](https://github.com/Devsgeeknerd/exe-1-var-exe-pra-ope-mat-bas)
-* [x] [Exercício 2 — Constantes.](https://github.com/Devsgeeknerd/exe-2-con-exe-pra-ope-mat-bas)
-* [x] [Exercício 3 — Operadores Matemáticos.](https://github.com/Devsgeeknerd/exe-3-ope-mat-exe-pra-ope-mat-bas)
-* [x] [Exercício 4 — Operadores Matemáticos.](https://github.com/Devsgeeknerd/exe-4-ope-mat-exe-pra-ope-mat-bas)
-* [x] [Exercício 5 — Operadores Matemáticos.](https://github.com/Devsgeeknerd/exe-5-ope-mat-exe-pra-ope-mat-bas)
-* [x] [Exercício 6 — Operadores Matemáticos.](https://github.com/Devsgeeknerd/exe-6-ope-mat-exe-pra-ope-mat-bas)
+* [x] [Exercício 1 — Variáveis.](https://github.com/Devsgeeknerd/exe-1-var-exe-pra-ope-mat-fun)
+* [x] [Exercício 2 — Constantes.](https://github.com/Devsgeeknerd/exe-2-con-exe-pra-ope-mat-fun)
+* [x] [Exercício 3 — Operadores Matemáticos.](https://github.com/Devsgeeknerd/exe-3-ope-mat-exe-pra-ope-mat-fun)
+* [x] [Exercício 4 — Operadores Matemáticos.](https://github.com/Devsgeeknerd/exe-4-ope-mat-exe-pra-ope-mat-fun)
+* [x] [Exercício 5 — Operadores Matemáticos.](https://github.com/Devsgeeknerd/exe-5-ope-mat-exe-pra-ope-mat-fun)
+* [x] [Exercício 6 — Operadores Matemáticos.](https://github.com/Devsgeeknerd/exe-6-ope-mat-exe-pra-ope-mat-fun)
 
 <!-- Informações -->
 ## &#8505; Informações
